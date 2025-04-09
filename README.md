@@ -9,35 +9,36 @@ Sou extremamente prestativo, tenho facilidade em aprender com rapidez e estou se
 ## 🛠️ Tecnologias e Ferramentas que estou aprendendo  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-  <br>Python
-</p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+    <br><sub>Python</sub>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
+    <br><sub>C#</sub>
+  </a>&nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
-  <br>C#
-</p>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
+    <br><sub>MySQL</sub>
+  </a>&nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
-  <br>MySQL
-</p>
+  <a href="https://learn.microsoft.com/pt-br/sql/sql-server/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/>
+    <br><sub>SQL Server</sub>
+  </a>&nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/>
-  <br>SQL Server
-</p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
+    <br><sub>Git</sub>
+  </a>&nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
-  <br>Git
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
+    <br><sub>GitHub</sub>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
-  <br>GitHub
-</p>
-
 ## 🌐 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-siqueira01)
