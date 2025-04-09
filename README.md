@@ -8,37 +8,36 @@ Sou extremamente prestativo, tenho facilidade em aprender com rapidez e estou se
 
 ## 🛠️ Tecnologias e Ferramentas que estou aprendendo  
 
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-    <br><sub>Python</sub>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
-    <br><sub>C#</sub>
-  </a>&nbsp;&nbsp;
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
-    <br><sub>MySQL</sub>
-  </a>&nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/><br>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/><br>
+      <sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://learn.microsoft.com/pt-br/sql/sql-server/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" alt="SQL Server"/>
-    <br><sub>SQL Server</sub>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
-    <br><sub>Git</sub>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
-    <br><sub>GitHub</sub>
-  </a>
-</p>
 ## 🌐 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-siqueira01)
